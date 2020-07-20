@@ -21,9 +21,9 @@ The analysis of the Py City School District shows the following:
 	- The Thomas High School was previously ranked 2nd overall, after replacing the 9th grade scores it dropped out of the top 5 ranking.
 - How does replacing the ninth-grade scores affect the following:
 	- The only impact on Math and reading scores by grade was Thomas High School. The 9th grade class did not get an average score because their scores were replaced with NaN. 
-	- Scores by school spending
-	- Scores by school size
-	- Scores by school type
+	- Scores by school spending - Only Thomas High School was impacted by the score change.
+	- Scores by school size - Only the medium size % passing math & reading and % overall passing was impacted.
+	- Scores by school type - The % passing math & reading and % overall passing went down at least 3 percentage.
 	
 ##Images
 - Before NaN replacement
