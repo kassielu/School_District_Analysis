@@ -7,8 +7,6 @@ In this project we're helping Maria, the chief Data Scientist at Py City School 
 - Data Sources: clean_students_complete.csv, schools_complete.csv, students_complete.csv
 - Software: Python 3.7.6, Anaconda 4.8.3, Jupyter Notebook 6.0.3
 
-: Using bulleted lists and images of DataFrames as support, address the following questions.
-
 ##Results
 The analysis of the Py City School District shows the following:
 - How is the district summary affected?
@@ -28,7 +26,7 @@ The analysis of the Py City School District shows the following:
 	- Scores by school type
 	
 ##Images
--Before NaN replacement
+- Before NaN replacement
 	- [Scores by School Type](Scores_by_School_Type_BF.png)
 	- [Scores by School Size](Scores_by_School_Size_Bf.png)
 	- [Scores by Spending](Scores_By_Spending_BF.png)
@@ -38,7 +36,7 @@ The analysis of the Py City School District shows the following:
 	- Thomas High School Summary](Thomas_School_Summary_bf.png)
 	- [Scholl Summary dataframe](school_summary_df_before.png)
 	- [District Summary dataframe](dist_summary_df_before.png)
--After NaN replacement
+- After NaN replacement
 	- [Average Reading Score by Grade](Ave_Reading_Score_By_Grade_After.png)
 	- [Average Math Score by Grade](Ave_Math_Score_By_Grade_After.png)
 	- [Top and Bottom School](Top_Bottom_5_School_After.png)
@@ -47,6 +45,6 @@ The analysis of the Py City School District shows the following:
 	- [District Summary Dataframe](dist_summary_df_after.png)
 
 ## Summary
-Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+The average math and reading scores did not change due to the replacement of the 9th grade scores from Thomas High School. The % overall went down by 1%.
 
 
